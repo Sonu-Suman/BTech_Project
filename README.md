@@ -18,7 +18,8 @@ administrative track your attendances. And many more thing in this project......
  1. Python
  2. Django
  3. Open-cv
- 4. Database
+ 4. TensorFlow
+ 5. Database
 
 ## Next
 
