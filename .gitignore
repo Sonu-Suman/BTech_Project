@@ -25,3 +25,13 @@ yarn-error.log*
 .node_modules
 /.idea
 ..idea
+
+Backend/__pycache__
+
+Backend/.idea
+
+Backend/database/config.json
+Backend/database/credential.json
+../.idea/misc.xml
+Backend/database/biometricauthentication-16f2e-firebase-adminsdk-xfr3p-d6ab1e3b8d.json
+Backend/database/__pycache__
